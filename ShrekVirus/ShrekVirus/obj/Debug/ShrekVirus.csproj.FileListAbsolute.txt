@@ -1,0 +1,11 @@
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\shrek.png
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\shreksong.wav
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\t.wav
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\the-shrek-soma-halder.ico
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\ShrekVirus.exe.config
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\ShrekVirus.exe
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\ShrekVirus.pdb
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.csprojAssemblyReference.cache
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.csproj.CoreCompileInputs.cache
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.exe
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.pdb
