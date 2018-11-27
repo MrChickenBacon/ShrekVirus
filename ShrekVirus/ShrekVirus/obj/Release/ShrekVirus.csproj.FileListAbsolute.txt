@@ -1,0 +1,15 @@
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\shrek.png
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\shreksong.wav
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\t.wav
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\the-shrek-soma-halder.ico
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\ShrekVirus.exe.config
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\ShrekVirus.exe.manifest
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\ShrekVirus.application
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\ShrekVirus.exe
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Release\ShrekVirus.pdb
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Release\ShrekVirus.csprojAssemblyReference.cache
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Release\ShrekVirus.csproj.CoreCompileInputs.cache
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Release\ShrekVirus.exe.manifest
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Release\ShrekVirus.application
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Release\ShrekVirus.exe
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Release\ShrekVirus.pdb

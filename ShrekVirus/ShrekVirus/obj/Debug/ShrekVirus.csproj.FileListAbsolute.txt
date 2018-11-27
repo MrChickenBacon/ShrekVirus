@@ -9,3 +9,7 @@ C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.csprojAssemblyRe
 C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.csproj.CoreCompileInputs.cache
 C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.exe
 C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.pdb
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\ShrekVirus.exe.manifest
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\bin\Debug\ShrekVirus.application
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.exe.manifest
+C:\KODING\ShrekVirus\ShrekVirus\ShrekVirus\obj\Debug\ShrekVirus.application
