@@ -1,4 +1,4 @@
-# ShrekVirus
+# ShrekVirus Prankware
 Only for swamp people!
 
 #
